@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pascal</h1>
-<h3 align="center">A passionate data scientist and full-stack developer from Switzerland</h3>
+<h3 align="center">A passionate full-stack developer from Switzerland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
